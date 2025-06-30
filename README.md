@@ -16,12 +16,13 @@ This is a machine learning web app built with **Streamlit** that predicts whethe
 
 ---
 
-pip install -r requirements.txt
-streamlit run webapp.py
+<P> pip install -r requirements.txt </p>
 
-/diabetes-predictor
-├── DiabetesPrediction.ipynb     # Jupyter Notebook (model training)
-├── trained_model1.sav           # Trained ML model (required)
-├── webapp.py                    # Streamlit app code
-├── requirements.txt             # Python dependencies
-└── README.md                    # Project documentation
+<P>streamlit run webapp.py</P>
+
+<p>/diabetes-predictor</p>
+<P>├── DiabetesPrediction.ipynb     # Jupyter Notebook (model training)</P>
+<P>├── trained_model1.sav           # Trained ML model (required)</P>
+<P>├── webapp.py                    # Streamlit app code</P>
+<P>── requirements.txt             # Python dependencies</P>
+<P>── README.md                    # Project documentation</P>
