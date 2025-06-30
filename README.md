@@ -1,0 +1,2 @@
+# DiabetesPrediction
+create using colab
