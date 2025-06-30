@@ -26,3 +26,9 @@ This is a machine learning web app built with **Streamlit** that predicts whethe
 <P>├── webapp.py                    # Streamlit app code</P>
 <P>├── requirements.txt             # Python dependencies</P>
 <P>├── README.md                    # Project documentation</P>
+
+---
+
+LIVE DEMO
+
+https://diabetesprediction-cqqp8mglewpgnrzws4s5ou.streamlit.app/
