@@ -24,5 +24,5 @@ This is a machine learning web app built with **Streamlit** that predicts whethe
 <P>├── DiabetesPrediction.ipynb     # Jupyter Notebook (model training)</P>
 <P>├── trained_model1.sav           # Trained ML model (required)</P>
 <P>├── webapp.py                    # Streamlit app code</P>
-<P>── requirements.txt             # Python dependencies</P>
-<P>── README.md                    # Project documentation</P>
+<P>├── requirements.txt             # Python dependencies</P>
+<P>├── README.md                    # Project documentation</P>
