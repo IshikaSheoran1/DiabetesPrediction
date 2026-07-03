@@ -10,7 +10,7 @@ This is a machine learning web app built with **Streamlit** that predicts whethe
 ## 📌 Project Description
 
 - 📊 Dataset: [PIMA Indian Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
-- 💡 Model: Trained using `RandomForestClassifier` from scikit-learn
+- 💡 Model: Trained using `Support Vector Machine` from scikit-learn
 - 🧠 Inputs: Pregnancies, Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, Diabetes Pedigree Function, Age
 - ⚙️ Deployment: Built using Streamlit and ready to deploy on Streamlit Cloud
 
